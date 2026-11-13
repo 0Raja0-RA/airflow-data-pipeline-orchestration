@@ -1,0 +1,16 @@
+# Logs Airflow (jangan di-commit)
+logs/
+*.log
+
+# Konfigurasi & Environment lokal
+.env
+config/
+
+# Output hasil run (biarkan sample input data saja yang di-commit)
+dags/output/warehouse.db
+dags/output/*.csv
+dags/output/*.txt
+
+# Python cache
+__pycache__/
+*.pyc
