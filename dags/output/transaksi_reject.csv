@@ -1,0 +1,3 @@
+amount,product,category,quantity,customer_id,transaction_id,transaction_date,reject_reason
+80000.0,Mouse Pad,Accessories,2,C008,,2026-11-01,transaction_id kosong
+-250000.0,Speaker,Audio,1,C009,TRX009,2026-11-01,amount tidak boleh negatif

@@ -1,0 +1,14 @@
+LAPORAN PIPELINE TRANSAKSI
+==========================
+Record pada task load: 8
+Record valid batch: 8
+Record ditolak batch: 2
+Total record database: 8
+Total nilai transaksi: 5,120,000.00
+
+RINGKASAN PER KATEGORI
+Accessories: 2 transaksi, nilai 865,000.00
+Audio: 1 transaksi, nilai 780,000.00
+Electronics: 1 transaksi, nilai 1,850,000.00
+Peripherals: 3 transaksi, nilai 675,000.00
+Storage: 1 transaksi, nilai 950,000.00

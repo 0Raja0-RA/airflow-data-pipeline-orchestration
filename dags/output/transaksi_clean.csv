@@ -1,0 +1,11 @@
+amount,product,category,quantity,customer_id,transaction_id,transaction_date
+350000.0,Keyboard,Peripherals,2,C001,TRX001,2026-11-01
+150000.0,Mouse,Peripherals,3,C002,TRX002,2026-11-01
+1850000.0,Monitor,Electronics,1,C003,TRX003,2026-11-01
+240000.0,USB Hub,Accessories,2,C004,TRX004,2026-11-01
+625000.0,Webcam,Accessories,1,C005,TRX005,2026-11-01
+780000.0,Headset,Audio,2,C006,TRX006,2026-11-01
+950000.0,SSD,Storage,1,C007,TRX007,2026-11-01
+80000.0,Mouse Pad,Accessories,2,C008,,2026-11-01
+-250000.0,Speaker,Audio,1,C009,TRX009,2026-11-01
+175000.0,Keyboard,Peripherals,1,C010,TRX010,2026-11-01
