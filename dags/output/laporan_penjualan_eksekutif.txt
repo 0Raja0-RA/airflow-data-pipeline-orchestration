@@ -1,0 +1,17 @@
+============================================================
+         LAPORAN EKSEKUTIF PIPELINE DATA PENJUALAN         
+             (TUGAS PRAKTIKUM MANDIRI M12)                 
+============================================================
+Waktu Proses Pipeline     : 2026-11-14 23:17:34
+Jumlah Transaksi Valid    : 8 transaksi
+Jumlah Transaksi Ditolak  : 2 transaksi
+Total Omset Penjualan     : Rp5,120,000.00
+Top Customer Belanja      : C003 (Total: Rp1,850,000.00)
+
+--- RINGKASAN PENJUALAN PER KATEGORI PRODUK ---
+• Kategori Audio        | Qty:  2 item | Omset: Rp  780,000.00
+• Kategori Storage      | Qty:  1 item | Omset: Rp  950,000.00
+• Kategori Accessories  | Qty:  3 item | Omset: Rp  865,000.00
+• Kategori Electronics  | Qty:  1 item | Omset: Rp1,850,000.00
+• Kategori Peripherals  | Qty:  6 item | Omset: Rp  675,000.00
+============================================================
